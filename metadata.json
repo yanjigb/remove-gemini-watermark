@@ -1,0 +1,6 @@
+{
+  "name": "Auto Watermark Remover AI with Gemini",
+  "description": "AI-powered automatic watermark and logo detection and seamless removal using Google Gemini vision and inpainting models.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
